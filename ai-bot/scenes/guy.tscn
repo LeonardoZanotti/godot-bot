@@ -14,6 +14,7 @@ position = Vector2( 0.0236053, -0.396851 )
 shape = SubResource( 1 )
 
 [node name="Camera2D" type="Camera2D" parent="."]
+current = true
 
 [node name="Sprite" type="Sprite" parent="."]
 scale = Vector2( 0.4, 0.4 )
